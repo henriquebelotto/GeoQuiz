@@ -6,6 +6,8 @@
     <string name="incorrect_toast">Incorrect!</string>
     <string name="next_button">Next</string>
     <string name="previous_button">Prev</string>
+    <string name="AllQuestionsAnswered">Congratulations! You have answered all the questions!
+                                            Your score is: </string>
 
     // Questions
     <string name="question_australia">Canberra is the capital of Australia.</string>
